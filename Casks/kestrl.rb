@@ -1,6 +1,6 @@
 cask "kestrl" do
-  version "0.1.1"
-  sha256 "d0a630c0670ae4482880f1a46780aab2ece87094b4030cb08807209081344c6a"
+  version "0.1.2"
+  sha256 "4d0c67309b6a38b7c2023468433018b3ad26cef1203e2cc2c63052caa606e0df"
 
   url "https://github.com/AdityaAmitK/kestrl/releases/download/v#{version}/Kestrl-#{version}.dmg"
   name "Kestrl"
